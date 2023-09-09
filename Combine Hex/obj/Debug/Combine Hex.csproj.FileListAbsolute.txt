@@ -1,0 +1,7 @@
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\obj\Debug\Combine_Hex.Properties.Resources.resources
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\obj\Debug\Combine Hex.csproj.GenerateResource.Cache
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\bin\Debug\CombineHex.exe.config
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\bin\Debug\CombineHex.exe
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\bin\Debug\CombineHex.pdb
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\obj\Debug\CombineHex.exe
+E:\Ref\Project\Project C#\Combine Hex\v1\CombineHex\Combine Hex\obj\Debug\CombineHex.pdb
